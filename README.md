@@ -53,4 +53,4 @@ MonthlyCharges=Müşteriden aylık olarak tahsil edilen tutar
 TotalCharges=Müşteriden tahsil edilen toplam tutar
 
 Churn=Müşterinin kullanıp kullanmadığı (Evet veya Hayır)
->>>>>>> 748263b4e4a51628159ba467029708566eaddd23
+
