@@ -326,7 +326,7 @@ df.head()
 
 #Bağımlı ve bağımsız değişkenler
 y = df["Churn"]
-X = df.drop(["Churn"], axis=1)
+X = df.drop(["Churn","customerID"], axis=1)
 
 #Verinin test-train olarak bölünmesi
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=17)
